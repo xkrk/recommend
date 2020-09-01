@@ -1,10 +1,11 @@
-name: Java 11 Gradle CI
+name: Update recommendations
 
-on: [push]
-
+on:
+  schedule:
+    - cron: "15 */1 * * *"
 jobs:
   build:
-    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
+    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -20,11 +21,9 @@ jobs:
         java-version: 11
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
-    - name: Grant execute permission for publish.sh
-      run: chmod +x publish.sh
     - name: Update recommendations
       run: ./gradlew updateRecommendations
     - name: Run publish if necessary
       env: # Or as an environment variable
         GRGIT_USER: ${{ secrets.GRGIT_USER }}
-      run: ./publish.sh
+      run: ./gradlew gitPublishPush
