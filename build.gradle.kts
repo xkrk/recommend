@@ -5,7 +5,7 @@ plugins {
 }
 
 gitPublish {
-    repoUri.set("https://github.com/beryx/badass-jlink-plugin.git")
+    repoUri.set("https://github.com/xkrk/recommend.git")
     branch.set("master")
     contents {
         from("data/reco.txt")
