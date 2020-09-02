@@ -3,7 +3,7 @@ name: Update recommendations
 on:
   schedule:
     - cron: "15 3,11,19 * * 0,6"
-    - cron: "15 5-20 * * 1-5"
+    - cron: "40 5-23 * * 1-5"
 jobs:
   build:
     if: github.ref == 'refs/heads/master'
@@ -27,4 +27,4 @@ jobs:
     - name: Run publish if necessary
       env: # Or as an environment variable
         GRGIT_USER: ${{ secrets.GRGIT_USER }}
-      run: ./gradlew gitPublishPush
+      run: ./gradlew -is gitPublishPush
