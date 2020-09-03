@@ -8,16 +8,13 @@ gitPublish {
     repoUri.set("https://github.com/xkrk/recommend.git")
     branch.set("master")
     contents {
-        from("data/reco.txt")
+        from(".")
     }
 }
 
 
 task("updateRecommendations") {
     doFirst {
-        val count = Recommender.updateRecoFile(file("data/reco.txt"))
-        if(count > 0) {
-
-        }
+        Recommender.updateRecoFile(file("data/reco.txt"))
     }
 }
