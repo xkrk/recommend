@@ -1155,3 +1155,15 @@
 {"isin":"DE0008303504","price":24.95,"buyPercent":73.0,"buyCount":12,"neutralCount":8,"sellCount":2,"date":"Nov 12, 2020, 8:15:00 AM"}
 {"isin":"DE000CBK1001","price":5.06,"buyPercent":37.0,"buyCount":1,"neutralCount":17,"sellCount":8,"date":"Nov 5, 2020, 11:57:00 AM"}
 {"isin":"DE0006202005","price":12.42,"buyPercent":30.0,"buyCount":1,"neutralCount":7,"sellCount":7,"date":"Oct 27, 2020, 7:28:00 AM"}
+{"isin":"DE000A1EWWW0","price":258.85,"buyPercent":45.0,"buyCount":9,"neutralCount":8,"sellCount":12,"date":"Nov 10, 2020, 5:29:00 PM"}
+{"isin":"DE0005190003","price":73.26,"buyPercent":73.0,"buyCount":18,"neutralCount":22,"sellCount":0,"date":"Nov 5, 2020, 9:25:00 AM"}
+{"isin":"DE000CBK1001","price":5.06,"buyPercent":37.0,"buyCount":1,"neutralCount":18,"sellCount":8,"date":"Nov 5, 2020, 1:54:00 PM"}
+{"isin":"DE0006599905","price":124.9,"buyPercent":55.0,"buyCount":9,"neutralCount":15,"sellCount":6,"date":"Nov 12, 2020, 8:15:00 AM"}
+{"isin":"DE0007236101","price":128.6,"buyPercent":90.0,"buyCount":34,"neutralCount":9,"sellCount":0,"date":"Nov 12, 2020, 10:30:00 AM"}
+{"isin":"DE0007664039","price":165.66,"buyPercent":82.0,"buyCount":43,"neutralCount":8,"sellCount":6,"date":"Oct 30, 2020, 12:00:00 AM"}
+{"isin":"DE0005408116","price":19.45,"buyPercent":50.0,"buyCount":6,"neutralCount":4,"sellCount":6,"date":"Nov 9, 2020, 12:00:00 AM"}
+{"isin":"DE0007480204","price":17.89,"buyPercent":79.0,"buyCount":8,"neutralCount":6,"sellCount":0,"date":"Sep 18, 2020, 12:00:00 AM"}
+{"isin":"DE0006202005","price":12.53,"buyPercent":30.0,"buyCount":1,"neutralCount":7,"sellCount":7,"date":"Nov 3, 2020, 4:23:00 PM"}
+{"isin":"DE0005419105","price":54.93,"buyPercent":100.0,"buyCount":16,"neutralCount":0,"sellCount":0,"date":"Oct 28, 2020, 2:17:00 PM"}
+{"isin":"GB0059822006","price":49.33,"buyPercent":90.0,"buyCount":23,"neutralCount":6,"sellCount":0,"date":"Nov 6, 2020, 12:00:00 AM"}
+{"isin":"DE0006632003","price":115.94,"buyPercent":62.0,"buyCount":4,"neutralCount":13,"sellCount":0,"date":"Oct 13, 2020, 5:08:00 PM"}
