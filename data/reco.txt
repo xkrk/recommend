@@ -1370,3 +1370,4 @@
 {"isin":"DE0006047004","price":62.2,"buyPercent":72.0,"buyCount":13,"neutralCount":17,"sellCount":0,"date":"Nov 6, 2020, 12:00:00 AM"}
 {"isin":"DE000BASF111","price":56.05,"buyPercent":61.0,"buyCount":10,"neutralCount":34,"sellCount":0,"date":"Nov 11, 2020, 1:04:00 AM"}
 {"isin":"DE0007236101","price":128.15,"buyPercent":90.0,"buyCount":40,"neutralCount":10,"sellCount":0,"date":"Nov 26, 2020, 5:34:00 PM"}
+{"isin":"DE000TUAG000","price":2.37,"buyPercent":6.0,"buyCount":0,"neutralCount":1,"sellCount":8,"date":"Sep 22, 2020, 3:06:00 AM"}
