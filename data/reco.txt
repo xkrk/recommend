@@ -1640,3 +1640,9 @@
 {"isin":"DE0005470405","price":53.1,"buyPercent":57.0,"buyCount":7,"neutralCount":11,"sellCount":4,"date":"Dec 7, 2020, 6:34:00 PM"}
 {"isin":"DE000A1DAHH0","price":64.04,"buyPercent":83.0,"buyCount":19,"neutralCount":10,"sellCount":0,"date":"Nov 19, 2020, 12:00:00 AM"}
 {"isin":"DE000WCH8881","price":103.28,"buyPercent":82.0,"buyCount":20,"neutralCount":11,"sellCount":0,"date":"Dec 10, 2020, 6:53:00 AM"}
+{"isin":"DE000CBK1001","price":20.24,"buyPercent":38.0,"buyCount":2,"neutralCount":18,"sellCount":9,"date":"Nov 19, 2020, 7:15:00 PM"}
+{"isin":"DE000ENAG999","price":10.89,"buyPercent":61.0,"buyCount":9,"neutralCount":10,"sellCount":4,"date":"Dec 11, 2020, 4:00:00 AM"}
+{"isin":"DE0007037129","price":40.05,"buyPercent":94.0,"buyCount":31,"neutralCount":2,"sellCount":1,"date":"Dec 13, 2020, 4:22:00 PM"}
+{"isin":"DE0007164600","price":128.4,"buyPercent":87.0,"buyCount":30,"neutralCount":11,"sellCount":0,"date":"Dec 29, 2020, 2:20:00 PM"}
+{"isin":"DE0007236101","price":129.0,"buyPercent":91.0,"buyCount":33,"neutralCount":7,"sellCount":0,"date":"Dec 11, 2020, 1:34:00 AM"}
+{"isin":"DE000A0D9PT0","price":156.19,"buyPercent":35.0,"buyCount":3,"neutralCount":19,"sellCount":14,"date":"Nov 30, 2020, 4:00:00 AM"}
