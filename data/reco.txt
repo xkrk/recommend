@@ -1861,3 +1861,8 @@
 {"isin":"NL0000235190","price":96.56,"buyPercent":87.0,"buyCount":31,"neutralCount":9,"sellCount":1,"date":"Jan 8, 2021, 3:56:00 AM"}
 {"isin":"DE000PSM7770","price":14.91,"buyPercent":81.0,"buyCount":20,"neutralCount":4,"sellCount":3,"date":"Jan 11, 2021, 5:04:00 PM"}
 {"isin":"DE0006969603","price":88.5,"buyPercent":71.0,"buyCount":9,"neutralCount":2,"sellCount":3,"date":"Oct 28, 2020, 8:30:00 PM"}
+{"isin":"DE0008404005","price":217.0,"buyPercent":76.0,"buyCount":12,"neutralCount":5,"sellCount":2,"date":"Dec 2, 2020, 5:03:00 AM"}
+{"isin":"DE0007037129","price":40.1,"buyPercent":95.0,"buyCount":34,"neutralCount":2,"sellCount":1,"date":"Jan 7, 2021, 12:00:00 AM"}
+{"isin":"DE0007236101","price":131.11,"buyPercent":92.0,"buyCount":41,"neutralCount":8,"sellCount":0,"date":"Jan 14, 2021, 11:10:00 PM"}
+{"isin":"DE000PSM7770","price":14.99,"buyPercent":82.0,"buyCount":21,"neutralCount":4,"sellCount":3,"date":"Jan 14, 2021, 3:13:00 PM"}
+{"isin":"DE0006202005","price":14.88,"buyPercent":40.0,"buyCount":6,"neutralCount":9,"sellCount":11,"date":"Dec 10, 2020, 10:30:00 AM"}
