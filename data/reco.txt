@@ -2835,3 +2835,7 @@
 {"isin":"DE0005190003","price":80.38,"buyPercent":59.0,"buyCount":11,"neutralCount":29,"sellCount":3,"date":"Mar 17, 2021, 7:20:00 AM"}
 {"isin":"DE000WCH8881","price":133.48,"buyPercent":88.0,"buyCount":24,"neutralCount":8,"sellCount":0,"date":"Mar 17, 2021, 8:15:00 AM"}
 {"isin":"DE000BASF111","price":75.48,"buyPercent":78.0,"buyCount":31,"neutralCount":14,"sellCount":4,"date":"Mar 15, 2021, 12:54:00 PM"}
+{"isin":"DE0005190003","price":80.49,"buyPercent":59.0,"buyCount":11,"neutralCount":30,"sellCount":3,"date":"Mar 17, 2021, 10:15:00 AM"}
+{"isin":"DE0005200000","price":92.71,"buyPercent":44.0,"buyCount":5,"neutralCount":26,"sellCount":10,"date":"Feb 22, 2021, 6:39:00 AM"}
+{"isin":"DE0005439004","price":133.48,"buyPercent":75.0,"buyCount":17,"neutralCount":17,"sellCount":0,"date":"Mar 18, 2021, 7:14:00 PM"}
+{"isin":"DE0007100000","price":73.67,"buyPercent":89.0,"buyCount":51,"neutralCount":12,"sellCount":1,"date":"Feb 23, 2021, 4:03:00 PM"}
