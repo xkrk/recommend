@@ -2943,3 +2943,4 @@
 {"isin":"DE000A0LD6E6","price":102.29,"buyPercent":79.0,"buyCount":11,"neutralCount":5,"sellCount":1,"date":"Mar 23, 2021, 7:08:00 AM"}
 {"isin":"DE0005190003","price":82.28,"buyPercent":62.0,"buyCount":14,"neutralCount":30,"sellCount":3,"date":"Mar 28, 2021, 11:29:00 PM"}
 {"isin":"DE0006047004","price":74.85,"buyPercent":76.0,"buyCount":28,"neutralCount":17,"sellCount":3,"date":"Mar 23, 2021, 1:44:00 AM"}
+{"isin":"DE0007100000","price":75.15,"buyPercent":89.0,"buyCount":53,"neutralCount":12,"sellCount":1,"date":"Mar 19, 2021, 8:37:00 PM"}
