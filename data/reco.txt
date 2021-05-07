@@ -3356,3 +3356,15 @@
 {"isin":"DE000TLX1005","price":48.6,"buyPercent":100.0,"buyCount":8,"neutralCount":0,"sellCount":0,"date":"Mar 15, 2021, 7:23:00 AM"}
 {"isin":"DE0006048432","price":100.66,"buyPercent":70.0,"buyCount":17,"neutralCount":22,"sellCount":1,"date":"Apr 19, 2021, 12:00:00 AM"}
 {"isin":"DE000A0Z2ZZ5","price":21.98,"buyPercent":75.0,"buyCount":11,"neutralCount":5,"sellCount":2,"date":"Apr 13, 2021, 12:00:00 AM"}
+{"isin":"DE0005140008","price":9.22,"buyPercent":27.0,"buyCount":0,"neutralCount":13,"sellCount":11,"date":"Apr 28, 2021, 11:14:00 PM"}
+{"isin":"DE0005810055","price":155.04,"buyPercent":72.0,"buyCount":13,"neutralCount":17,"sellCount":0,"date":"Apr 22, 2021, 11:31:00 AM"}
+{"isin":"DE0005785802","price":66.02,"buyPercent":73.0,"buyCount":17,"neutralCount":10,"sellCount":3,"date":"May 4, 2021, 12:00:00 AM"}
+{"isin":"DE0005785604","price":46.24,"buyPercent":86.0,"buyCount":22,"neutralCount":4,"sellCount":2,"date":"Apr 30, 2021, 5:29:00 AM"}
+{"isin":"DE0006047004","price":76.31,"buyPercent":73.0,"buyCount":31,"neutralCount":21,"sellCount":5,"date":"May 6, 2021, 7:25:00 AM"}
+{"isin":"DE0006048432","price":100.62,"buyPercent":70.0,"buyCount":17,"neutralCount":23,"sellCount":1,"date":"May 5, 2021, 12:00:00 AM"}
+{"isin":"DE0007664039","price":242.18,"buyPercent":86.0,"buyCount":56,"neutralCount":22,"sellCount":0,"date":"May 6, 2021, 12:00:00 AM"}
+{"isin":"DE0005194062","price":41.67,"buyPercent":75.0,"buyCount":2,"neutralCount":2,"sellCount":0,"date":"Dec 11, 2020, 8:15:00 AM"}
+{"isin":"DE000KC01000","price":11.15,"buyPercent":87.0,"buyCount":18,"neutralCount":4,"sellCount":1,"date":"Apr 19, 2021, 12:00:00 AM"}
+{"isin":"DE000A1H8BV3","price":45.82,"buyPercent":81.0,"buyCount":11,"neutralCount":7,"sellCount":0,"date":"Mar 30, 2021, 8:15:00 AM"}
+{"isin":"DE0007010803","price":534.35,"buyPercent":10.0,"buyCount":0,"neutralCount":5,"sellCount":19,"date":"Apr 26, 2021, 12:00:00 AM"}
+{"isin":"DE000A0Z2ZZ5","price":21.86,"buyPercent":74.0,"buyCount":12,"neutralCount":7,"sellCount":2,"date":"May 4, 2021, 7:35:00 AM"}
