@@ -3443,3 +3443,15 @@
 {"isin":"DE0005664809","price":34.63,"buyPercent":75.0,"buyCount":4,"neutralCount":4,"sellCount":0,"date":"Mar 25, 2021, 7:17:00 AM"}
 {"isin":"DE0006632003","price":109.87,"buyPercent":79.0,"buyCount":14,"neutralCount":10,"sellCount":0,"date":"May 5, 2021, 11:02:00 PM"}
 {"isin":"DE000A1DAHH0","price":74.74,"buyPercent":71.0,"buyCount":13,"neutralCount":8,"sellCount":3,"date":"Mar 25, 2021, 7:50:00 AM"}
+{"isin":"DE000ENAG999","price":10.85,"buyPercent":80.0,"buyCount":19,"neutralCount":10,"sellCount":1,"date":"Apr 23, 2021, 9:30:00 AM"}
+{"isin":"DE0006231004","price":40.32,"buyPercent":92.0,"buyCount":32,"neutralCount":4,"sellCount":1,"date":"May 5, 2021, 6:50:00 AM"}
+{"isin":"DE000KSAG888","price":10.37,"buyPercent":73.0,"buyCount":14,"neutralCount":10,"sellCount":2,"date":"Apr 20, 2021, 2:09:00 PM"}
+{"isin":"DE0006766504","price":72.09,"buyPercent":63.0,"buyCount":3,"neutralCount":4,"sellCount":1,"date":"Apr 15, 2021, 12:00:00 AM"}
+{"isin":"DE000A1DAHH0","price":75.04,"buyPercent":72.0,"buyCount":14,"neutralCount":8,"sellCount":3,"date":"Mar 26, 2021, 5:58:00 PM"}
+{"isin":"DE0005773303","price":51.43,"buyPercent":55.0,"buyCount":10,"neutralCount":12,"sellCount":7,"date":"Mar 26, 2021, 4:02:00 PM"}
+{"isin":"DE0006602006","price":31.8,"buyPercent":60.0,"buyCount":12,"neutralCount":12,"sellCount":6,"date":"May 3, 2021, 2:01:00 PM"}
+{"isin":"DE000LEG1110","price":140.31,"buyPercent":95.0,"buyCount":19,"neutralCount":2,"sellCount":0,"date":"Apr 27, 2021, 12:00:00 AM"}
+{"isin":"DE0005158703","price":180.67,"buyPercent":82.0,"buyCount":9,"neutralCount":5,"sellCount":0,"date":"Mar 23, 2021, 12:00:00 AM"}
+{"isin":"DE0005545503","price":30.54,"buyPercent":80.0,"buyCount":12,"neutralCount":8,"sellCount":0,"date":"Mar 29, 2021, 3:35:00 PM"}
+{"isin":"DE000A0D6554","price":26.9,"buyPercent":68.0,"buyCount":5,"neutralCount":9,"sellCount":0,"date":"Mar 24, 2021, 7:30:00 AM"}
+{"isin":"DE0005089031","price":39.71,"buyPercent":73.0,"buyCount":7,"neutralCount":8,"sellCount":0,"date":"Mar 25, 2021, 5:19:00 AM"}
